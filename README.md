@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suresh kumar Thakur
 - 👀 I’m interested in solution of problems 
 - 🌱 I’m currently learning backend 
-- 💞️ I’m looking to collaborate on " see above m learning "
+- 💞️ I’m looking to collaborate on " front end with React and Redux  "
 - ⚡ Fun fact:" look " 
 
 <!---
