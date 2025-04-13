@@ -2,20 +2,20 @@
 
 🌟I don’t compete with Anyone. I compete with who I was Yesterday — and I’m Winning.🌟
 
-Skills
+### 🧠 Tech Skills
 
-| 💪 Strong Suit | ⚙️ Medium | 🧠Learning |
-|----------------|------------|-------------|
-| HTML           | Node.js    | PHP         |
-| CSS            | Express.js | Laravel     | 
-| Tailwind CSS   | MongoDB    | SQL         | 
-| JavaScript     | WordPress  | Material Ui |
-| TypeScript     | C++        |             | 
-| jQuery         | Java       |             |                
-| React JS       |            |             |                
-| React Redux    |            |             |                
-| GitHub         |            |             |                
----------------------------------------------
+| 💪 **Strong Suit**         | ⚙️ **Medium**           | 🧠 **Learning**        |
+|----------------------------|-------------------------|------------------------|
+| 🌐 HTML                    | 🌳 Node.js              | 🐘 PHP                 |
+| 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel             |
+| 💨 Tailwind CSS            | 🍃 MongoDB              | 🗄 SQL                 |
+| ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI         |
+| 📘 TypeScript              | ➕ C++                  |                        |
+| ⚡ jQuery                  | ☕ Java                 |                        |
+| ⚛️ React JS                |                         |                        |
+| 🔄 React Redux             |                         |                        |
+| 🐱 GitHub                  |                         |                        |
+----------------------------------------------------------------------------------
 
 💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
 
