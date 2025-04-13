@@ -7,14 +7,14 @@
   
 💪 **Strong Suit**   ------        | ⚙️         ----   **Medium** ------          |         ------          🧠 **Learning**        |
  |----------------------------|-------------------------|------------------------|
-|  | 🌐 HTML                    | 🌳 Node.js              | 🐘 PHP                 |
-  | 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel             |
+  | 🌐 HTML                    | 🌳 Node.js              | 🐘 PHP                |
+  | 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel            |
   | 💨 Tailwind CSS            | 🍃 MongoDB              | 🗄 SQL                 |
-  | ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI         |
-|  | 📘 TypeScript              | ➕ C++                  |                        |
-  | ⚡ jQuery                  | ☕ Java                 |                        |
- | ⚛️ React JS                |                         |                        |
-| | 🔄 React Redux             |                         |                        |
+  | ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI        |
+  | 📘 TypeScript              | ➕ C++                  |                       |
+  | ⚡ jQuery                  | ☕ Java                 |                       |
+  | ⚛️ React JS                |                         |                        |
+  | 🔄 React Redux             |                         |                        |
   | 🐱 GitHub                  |                         |                        |
   
  💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
