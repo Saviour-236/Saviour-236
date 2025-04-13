@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Suresh kumar Thakur
+👋 Hi, I’m Suresh kumar Thakur
+
 🌟I don’t compete with Anyone. I compete with who I was Yesterday — and I’m Winning.🌟
 
 Skills
