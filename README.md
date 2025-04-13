@@ -15,17 +15,12 @@
 | ⚛️ React JS                |                         |                        |
 | 🔄 React Redux             |                         |                        |
 | 🐱 GitHub                  |                         |                        |
-----------------------------------------------------------------------------------
-💪 Strong Suit
-HTML • CSS • Tailwind CSS • JavaScript • TypeScript • jQuery • React JS • React Redux • GitHub
-
-⚙️ Medium
-Node.js • Express.js • MongoDB • WordPress • C++ • Java
-
-🧠 Learning (Beginner Level)
-PHP • Laravel • SQL
 
 💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
+
+----------------------------------------------------------------------------------
+
+
 
 
 
