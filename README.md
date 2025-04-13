@@ -3,26 +3,25 @@
 🌟I don’t compete with Anyone. I compete with who I was Yesterday — and I’m Winning.🌟
 
 
-|   ### 🧠 Tech Skills
-|  
-| 💪 **Strong Suit**   ------        | ⚙️         ----   **Medium** ------          |         ------          🧠 **Learning**        |
-|  |----------------------------|-------------------------|------------------------|
+  ### 🧠 Tech Skills
+  
+💪 **Strong Suit**   ------        | ⚙️         ----   **Medium** ------          |         ------          🧠 **Learning**        |
+ |----------------------------|-------------------------|------------------------|
 |  | 🌐 HTML                    | 🌳 Node.js              | 🐘 PHP                 |
-|  | 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel             |
-|  | 💨 Tailwind CSS            | 🍃 MongoDB              | 🗄 SQL                 |
-|  | ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI         |
+  | 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel             |
+  | 💨 Tailwind CSS            | 🍃 MongoDB              | 🗄 SQL                 |
+  | ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI         |
 |  | 📘 TypeScript              | ➕ C++                  |                        |
-|  | ⚡ jQuery                  | ☕ Java                 |                        |
-|  | ⚛️ React JS                |                         |                        |
-|  | 🔄 React Redux             |                         |                        |
-|  | 🐱 GitHub                  |                         |                        |
-|  
-|  💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
-|  
-|  Project 001 :  poster-vault-project-1.netlify.app
-|  
-|  ----------------------------------------------------------------------------------
-|                                   Thanks For Being Here 🫡
+  | ⚡ jQuery                  | ☕ Java                 |                        |
+ | ⚛️ React JS                |                         |                        |
+| | 🔄 React Redux             |                         |                        |
+  | 🐱 GitHub                  |                         |                        |
+  
+ 💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
+  Project 001 :  poster-vault-project-1.netlify.app
+ 
+ ----------------------------------------------------------------------------------
+                                   Thanks For Being Here 🫡
 
 
 
