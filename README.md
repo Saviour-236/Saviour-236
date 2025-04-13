@@ -18,7 +18,10 @@
 
 💼 Soft Skills ->  Strong Communication • Problem-solving • Leadership • Active Listener • Fast Learner
 
+Project 001 :  poster-vault-project-1.netlify.app
+
 ----------------------------------------------------------------------------------
+                                 Thanks For Being Here 🫡
 
 
 
