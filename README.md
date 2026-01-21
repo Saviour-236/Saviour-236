@@ -7,10 +7,10 @@
   
 💪 **Strong Suit**   ------        | ⚙️         ----   **Medium** ------          |         ------          🧠 **Learning**        |
  |----------------------------|-------------------------|------------------------|
-  | 🌐 HTML                    | 🌳 Node.js              | 🐘 PHP                |
-  | 🎨 CSS                     | 🚄 Express.js           | 🔥 Laravel            |
-  | 💨 Tailwind CSS            | 🍃 MongoDB              | 🗄 SQL                 |
-  | ✨ JavaScript              | 📝 WordPress            | 🎨 Material UI        |
+  | 🌐 HTML                    | 🌳 Node.js              |        |
+  | 🎨 CSS                     | 🚄 Express.js           |          |
+  | 💨 Tailwind CSS            | 🍃 MongoDB              |                 |
+  | ✨ JavaScript              |                         |      |
   | 📘 TypeScript              | ➕ C++                  |                       |
   | ⚡ jQuery                  | ☕ Java                 |                       |
   | ⚛️ React JS                |                         |                        |
