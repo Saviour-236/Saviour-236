@@ -1,6 +1,6 @@
 👋 Hi, I’m Suresh kumar Thakur
 
-🌟I don’t compete with Anyone. I compete with who I was Yesterday — and I’m Winning.🌟
+🌟 Working to build solutions that make the world better.  🌟
 
 
   ### 🧠 Tech Skills
